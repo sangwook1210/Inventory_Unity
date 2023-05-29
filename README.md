@@ -1,7 +1,9 @@
 # Inventory_Unity
 
 ● 게임 스크린샷 / 플레이 영상<br>
+<img width="960" alt="222" src="https://github.com/sangwook1210/Inventory_Unity/assets/112921582/849a49ab-2bae-4367-88b9-9c1eba58f7fa">
 
+https://youtu.be/A3l23uI0YZM<br>
 
 ● 게임 소개<br>
 
